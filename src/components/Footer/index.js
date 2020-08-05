@@ -11,7 +11,7 @@ function Footer() {
         Desenvolvido por KAIC durante a
         {' '}
         <a href="https://www.alura.com.br/">
-          Imersão React da Alura
+          Imersão React da Alura.
         </a>
       </p>
     </FooterBase>
